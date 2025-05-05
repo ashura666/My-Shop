@@ -42,6 +42,5 @@ This project is a responsive e-commerce website built using **HTML**, **CSS**,**
 Contact
 For any questions or feedback, please contact:
 
-```bash
 Email: chakaryash05@gmail.com
 GitHub: asshura666
